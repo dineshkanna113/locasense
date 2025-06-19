@@ -53,7 +53,7 @@ This project presents a prototype for LocaSense, a personal tracking system desi
 
 ## 👨‍🎓 Author
 
-**Dinesh Kanna**  
+**Dinesh Kanna, Dhanwin GB**  
 B.E. Final Year Project  
 Dept. of Electronics and Communication Engineering  
 Adhiyamaan College of Engineering
