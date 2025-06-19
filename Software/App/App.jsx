@@ -5,7 +5,7 @@ import { initializeApp } from 'firebase/app';
 import { getDatabase, ref, onValue } from 'firebase/database';
 
 const firebaseConfig = {
-  apiKey: "YOUR_FIREBASE_API_KEY",
+  apiKey: "AIzaSyDPO3GCCduL2T6ww669NsKGqTP-OCPTFlc",
   databaseURL: "https://locasense_dd.firebaseio.com",
   projectId: "studio-12565546",
   // ...rest from Firebase web config
