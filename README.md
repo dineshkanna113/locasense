@@ -47,7 +47,7 @@ This project presents a prototype for LocaSense, a personal tracking system desi
 | `/docs` | Report, literature survey |
 | `/images` | Demo GIFs, diagrams |
 
-## 📸 Demo
+## 📸 Model Locasense
 
 ![Model](images/model.jpg)
 
